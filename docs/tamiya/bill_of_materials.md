@@ -74,7 +74,7 @@ You need a wide angle camera for JetRacer.  Pick an option and order the parts l
 |------|:----------:|:------:|-----|-------|-------|
 | M3x45mm Standoff Pack | 1 | $10.69 | [Amazon](https://amzn.to/2LPuZ20) | To support 3d-printed base plate | Ordered 2 |
 | M3 Universal Screw Pack | 1 | $12.94 | [Amazon](https://amzn.to/2LNGt6q) | 4x M3x8mm screws, 4x M3 flat head screws needed for 4 standoffs | Ordered |
-| M2x8mm Screw Pack | 1 | $6.39 | [Amazon](https://amzn.to/312PTOK) | Mounts accessories to 3D printed base plate.  18 screws needed per car | Order |
+| M2x8mm Screw Pack | 1 | $6.39 | [Amazon](https://amzn.to/312PTOK) | Mounts accessories to 3D printed base plate.  18 screws needed per car | Ordered |
 | Battery Strap Pack | 1 | $6.98 | [Amazon](https://amzn.to/317zoRN) | 1 needed per car | Ordered |
 
 
