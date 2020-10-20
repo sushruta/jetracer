@@ -40,7 +40,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 | PWM Servo Motor Driver | 1 | $6.99 | [Amazon](https://amzn.to/317xYqr) | Ordered 2 |
 | RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | | Need to order |
 | Servo Extension Cable Pack | 1 | $5.91 | [Amazon](https://amzn.to/2SMnkSM) | Male to Male, 10cm | Ordered 2 |
-| Jumper Wire Pack | 1 | $6.98 | [Amazon](https://amzn.to/319x9NT) | Female to Female, > 10cm | | Ordered |
+| Jumper Wire Pack | 1 | $6.98 | [Amazon](https://amzn.to/319x9NT) | Female to Female, > 10cm | Ordered |
 
 ## Wi-Fi
 
