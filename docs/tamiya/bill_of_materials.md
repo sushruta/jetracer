@@ -20,7 +20,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 | Part | Quantity | Cost | URL | Notes | My Notes |
 |------|:----------:|:------:|-----|-------|-------|
 | RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit | Cancelled |
-| Servo | 1 | $15.98 | [Amazon](https://amzn.to/2LS781O) | Futaba S3004 Standard Ball Bearing Servo | | Ordered |
+| Servo | 1 | $15.98 | [Amazon](https://amzn.to/2LS781O) | Futaba S3004 Standard Ball Bearing Servo | Ordered |
 | TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set | Do we need this? |
 | RC battery pack | 1 | $39.99 | [Amazon](https://amzn.to/31330PW) | Tenergy 7.2V 3000mAh NiMH (2-pack) | Ordered |
 | RC battery charger | 1 | $20.99 | [Amazon](https://amzn.to/2GHi3ay) | Tenergy Universal RC Battery Charger | Ordered |
@@ -37,7 +37,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 
 | Part | Quantity | Cost | URL | Notes | My Notes |
 |------|:----------:|:------:|-----|-------|-------|
-| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](https://amzn.to/317xYqr) | Ordered 2 |
+| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](https://amzn.to/317xYqr) | | Ordered 2 |
 | RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | | Need to order |
 | Servo Extension Cable Pack | 1 | $5.91 | [Amazon](https://amzn.to/2SMnkSM) | Male to Male, 10cm | Ordered 2 |
 | Jumper Wire Pack | 1 | $6.98 | [Amazon](https://amzn.to/319x9NT) | Female to Female, > 10cm | Ordered |
