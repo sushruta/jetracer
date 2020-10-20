@@ -10,7 +10,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 |------|:----------:|:------:|-----|-------|-------|
 | Jetson Nano | 1 | $99.00 | [NVIDIA](https://developer.nvidia.com/buy-jetson?product=jetson_nano), [Amazon](https://amzn.to/2K36TPl) |  | In hand |
 | Micro SD Card | 1 | $11.99 | [Amazon](https://amzn.to/2Mohzd1) | Must be at least 32GB | Ordered |
-| USB Battery | 1 | $13.99 | [Amazon](http://amzn.com/B07KPCKCYG/) | Must provide at least 5V @ 2A | Need to order |
+| USB Battery | 1 | $13.99 | [Amazon](http://amzn.com/B07KPCKCYG/) | Must provide at least 5V @ 2A | Ordered |
 | USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://amzn.to/2SMmu8A) |  | Ordered |
 | 5V @ 4A Barrel Plug Power Supply | 1 | $14.95 | [Adafruit](https://www.adafruit.com/product/1466) | 2.1mm Iinner diameter | Ordered |
 | Jumper Caps Pack | 1 | $5.09 | [Amazon](https://amzn.to/2LP96QI) | 2.54mm pitch | Ordered |
@@ -19,7 +19,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 
 | Part | Quantity | Cost | URL | Notes | My Notes |
 |------|:----------:|:------:|-----|-------|-------|
-| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit | Cancelled |
+| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit | Ordered |
 | Servo | 1 | $15.98 | [Amazon](https://amzn.to/2LS781O) | Futaba S3004 Standard Ball Bearing Servo | Ordered |
 | TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set | Do we need this? |
 | RC battery pack | 1 | $39.99 | [Amazon](https://amzn.to/31330PW) | Tenergy 7.2V 3000mAh NiMH (2-pack) | Ordered |
@@ -38,7 +38,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 | Part | Quantity | Cost | URL | Notes | My Notes |
 |------|:----------:|:------:|-----|-------|-------|
 | PWM Servo Motor Driver | 1 | $6.99 | [Amazon](https://amzn.to/317xYqr) | | Ordered 2 |
-| RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | | Need to order |
+| RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | | Ordered 2 |
 | Servo Extension Cable Pack | 1 | $5.91 | [Amazon](https://amzn.to/2SMnkSM) | Male to Male, 10cm | Ordered 2 |
 | Jumper Wire Pack | 1 | $6.98 | [Amazon](https://amzn.to/319x9NT) | Female to Female, > 10cm | Ordered |
 
