@@ -6,54 +6,56 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 
 ## Jetson Nano
 
-| Part | Quantity | Cost | URL | Notes |
-|------|:----------:|:------:|-----|-------|
-| Jetson Nano | 1 | $99.00 | [NVIDIA](https://developer.nvidia.com/buy-jetson?product=jetson_nano), [Amazon](https://amzn.to/2K36TPl) |  |
-| Micro SD Card | 1 | $11.99 | [Amazon](https://amzn.to/2Mohzd1) | Must be at least 32GB |
-| USB Battery | 1 | $13.99 | [Amazon](http://amzn.com/B07KPCKCYG/) | Must provide at least 5V @ 2A |
-| USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://amzn.to/2SMmu8A) |  |
-| 5V @ 4A Barrel Plug Power Supply | 1 | $14.95 | [Adafruit](https://www.adafruit.com/product/1466) | 2.1mm Iinner diameter |
-| Jumper Caps Pack | 1 | $5.09 | [Amazon](https://amzn.to/2LP96QI) | 2.54mm pitch |
+| Part | Quantity | Cost | URL | Notes | My Notes |
+|------|:----------:|:------:|-----|-------|-------|
+| Jetson Nano | 1 | $99.00 | [NVIDIA](https://developer.nvidia.com/buy-jetson?product=jetson_nano), [Amazon](https://amzn.to/2K36TPl) |  | In hand |
+| Micro SD Card | 1 | $11.99 | [Amazon](https://amzn.to/2Mohzd1) | Must be at least 32GB | Ordered |
+| USB Battery | 1 | $13.99 | [Amazon](http://amzn.com/B07KPCKCYG/) | Must provide at least 5V @ 2A | Need to order |
+| USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://amzn.to/2SMmu8A) |  | Ordered |
+| 5V @ 4A Barrel Plug Power Supply | 1 | $14.95 | [Adafruit](https://www.adafruit.com/product/1466) | 2.1mm Iinner diameter | Ordered |
+| Jumper Caps Pack | 1 | $5.09 | [Amazon](https://amzn.to/2LP96QI) | 2.54mm pitch | Ordered |
 
 ## Chassis
 
-| Part | Quantity | Cost | URL | Notes |
-|------|:----------:|:------:|-----|-------|
-| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit
-| Servo | 1 | $15.98 | [Amazon](https://amzn.to/2LS781O) | Futaba S3004 Standard Ball Bearing Servo |
-| TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set |
-| RC battery pack | 1 | $39.99 | [Amazon](https://amzn.to/31330PW) | Tenergy 7.2V 3000mAh NiMH (2-pack) |
-| RC battery charger | 1 | $20.99 | [Amazon](https://amzn.to/2GHi3ay) | Tenergy Universal RC Battery Charger |
-| 3d-printed base board | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_base_board.stl) | Can be printed purchased at [Donkey Car](https://store.donkeycar.com/products/nvidia-jetracer-3d-printed-parts) Store |
-| 3d-printed camera mount | 1 |  | [STL file](../../assets/jetracer_cam_mount.stl) | Can be printed purchased at [Donkey Car](https://store.donkeycar.com/products/nvidia-jetracer-3d-printed-parts) Store |
+| Part | Quantity | Cost | URL | Notes | My Notes |
+|------|:----------:|:------:|-----|-------|-------|
+| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit | Ordered |
+| Servo | 1 | $15.98 | [Amazon](https://amzn.to/2LS781O) | Futaba S3004 Standard Ball Bearing Servo | Need to order |
+| TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set | Do we need this? |
+| RC battery pack | 1 | $39.99 | [Amazon](https://amzn.to/31330PW) | Tenergy 7.2V 3000mAh NiMH (2-pack) | Need to order |
+| RC battery charger | 1 | $20.99 | [Amazon](https://amzn.to/2GHi3ay) | Tenergy Universal RC Battery Charger | Need to order |
+| 3d-printed base board | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_base_board.stl) | Can be printed purchased at [Donkey Car](https://store.donkeycar.com/products/nvidia-jetracer-3d-printed-parts) Store | Need to order |
+| 3d-printed camera mount | 1 |  | [STL file](../../assets/jetracer_cam_mount.stl) | Can be printed purchased at [Donkey Car](https://store.donkeycar.com/products/nvidia-jetracer-3d-printed-parts) Store | Need to order |
 
 ## Jig
 
-| Part | Quantity | Cost | URL | Notes |
-|------|:----------:|:------:|-----|-------|
-| 3d-printed jig plate | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_drill_jig.stl) | to help drill holes on RC car chassis |
+| Part | Quantity | Cost | URL | Notes | My Notes |
+|------|:----------:|:------:|-----|-------|-------|
+| 3d-printed jig plate | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_drill_jig.stl) | to help drill holes on RC car chassis | Need to order |
 
 ## Electronics
 
-| Part | Quantity | Cost | URL | Notes |
-|------|:----------:|:------:|-----|-------|
-| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](https://amzn.to/317xYqr) |
-| RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | |
-| Servo Extension Cable Pack | 1 | $5.91 | [Amazon](https://amzn.to/2SMnkSM) | Male to Male, 10cm |
-| Jumper Wire Pack | 1 | $6.98 | [Amazon](https://amzn.to/319x9NT) | Female to Female, > 10cm | |
+| Part | Quantity | Cost | URL | Notes | My Notes |
+|------|:----------:|:------:|-----|-------|-------|
+| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](https://amzn.to/317xYqr) | Need to order |
+| RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | | Need to order |
+| Servo Extension Cable Pack | 1 | $5.91 | [Amazon](https://amzn.to/2SMnkSM) | Male to Male, 10cm | Need to order |
+| Jumper Wire Pack | 1 | $6.98 | [Amazon](https://amzn.to/319x9NT) | Female to Female, > 10cm | | Need to order |
 
 ## Wi-Fi
 
-| Part | Quantity | Cost | URL | Notes |
-|------|:----------:|:------:|-----|-------|
-| Wi-Fi Card | 1 | $18.95 | [Amazon](https://amzn.to/319d6z3), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) |  |
-| Wi-Fi Antenna kit | 1 | $8.99 | [Amazon](https://amzn.to/2SPft6U) | IPEX MHF4 connectors |
+| Part | Quantity | Cost | URL | Notes | My Notes |
+|------|:----------:|:------:|-----|-------|-------|
+| Wi-Fi Card | 1 | $18.95 | [Amazon](https://amzn.to/319d6z3), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) |  | Need to order |
+| Wi-Fi Antenna kit | 1 | $8.99 | [Amazon](https://amzn.to/2SPft6U) | IPEX MHF4 connectors | Need to order |
 
 ## Camera
 
 You need a wide angle camera for JetRacer.  Pick an option and order the parts listed.
 
 ### Option 1 - Wide angle Leopard Imaging camera
+
+#### Sushruta's note - We already have a camera arriving. Need to check if the below listed cameras need to used. Mine is costlier but more versatile. Need to check if I need it.
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
@@ -68,12 +70,12 @@ You need a wide angle camera for JetRacer.  Pick an option and order the parts l
 
 ## Assembly Hardware
 
-| Part | Quantity | Cost | URL | Notes |
-|------|:----------:|:------:|-----|-------|
-| M3x45mm Standoff Pack | 1 | $10.69 | [Amazon](https://amzn.to/2LPuZ20) | To support 3d-printed base plate |
-| M3 Universal Screw Pack | 1 | $12.94 | [Amazon](https://amzn.to/2LNGt6q) | 4x M3x8mm screws, 4x M3 flat head screws needed for 4 standoffs |
-| M2x8mm Screw Pack | 1 | $6.39 | [Amazon](https://amzn.to/312PTOK) | Mounts accessories to 3D printed base plate.  18 screws needed per car |
-| Battery Strap Pack | 1 | $6.98 | [Amazon](https://amzn.to/317zoRN) | 1 needed per car |
+| Part | Quantity | Cost | URL | Notes | My Notes |
+|------|:----------:|:------:|-----|-------|-------|
+| M3x45mm Standoff Pack | 1 | $10.69 | [Amazon](https://amzn.to/2LPuZ20) | To support 3d-printed base plate | Need to order |
+| M3 Universal Screw Pack | 1 | $12.94 | [Amazon](https://amzn.to/2LNGt6q) | 4x M3x8mm screws, 4x M3 flat head screws needed for 4 standoffs | Need to order |
+| M2x8mm Screw Pack | 1 | $6.39 | [Amazon](https://amzn.to/312PTOK) | Mounts accessories to 3D printed base plate.  18 screws needed per car | Need to order |
+| Battery Strap Pack | 1 | $6.98 | [Amazon](https://amzn.to/317zoRN) | 1 needed per car | Need to order |
 
 
 
